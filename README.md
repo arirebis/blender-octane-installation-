@@ -2,6 +2,9 @@
 description: >-
   The Octane render engine by OTOY is available for free as a fully functional
   renderer for Blender since 2019.
+cover: >-
+  .gitbook/assets/52hz_shot-a_print_noca-zweiseitiger-Aufmacher-Fragzeichen-1250x750.jpg
+coverY: 108
 ---
 
 # Installing the OctaneRender® engine in Blender Octane Edition
